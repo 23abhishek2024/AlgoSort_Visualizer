@@ -1,25 +1,35 @@
-# Sorting Visualizer
+# 📊 AlgoSort Visualizer
 
-A web-based visualizer that demonstrates how various sorting algorithms work through animations. Built using HTML, CSS, and JavaScript.
+A clean and interactive web-based application to visualize how various sorting algorithms work step-by-step with smooth animations.
 
-## Features
+Built using **HTML, CSS, and JavaScript**.
 
-- Visualize popular sorting algorithms
-- Intuitive UI with buttons to generate and shuffle arrays
-- Dropdown menu to choose sorting technique
-- Smooth bar animations to represent sorting steps
+---
 
-## Algorithms Implemented
+## 🚀 Features
 
-- Bubble Sort
-- Selection Sort
-- Insertion Sort
-- Merge Sort
-- Quick Sort
+- 🔀 Generate and shuffle arrays with adjustable size
+- 📊 Visualize multiple popular sorting algorithms
+- 🎨 Smooth, responsive bar animations to display sorting steps
+- 🎛️ Dropdown menu to select sorting algorithm
+- 📱 Clean and user-friendly UI
 
-## How to Run Locally
+---
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Abhishek-sd753/Sorting_Visualizerr.git
-   ```
+## 📚 Algorithms Implemented
+
+- 📦 Bubble Sort
+- 📦 Selection Sort
+- 📦 Insertion Sort
+- 📦 Merge Sort
+- 📦 Quick Sort
+
+---
+
+## ⚙️ How to Run Locally
+
+1️⃣ Clone this repository:
+
+```bash
+git clone https://github.com/23abhishek2024/AlgoSort_Visualizer.git
+```
